@@ -10,6 +10,7 @@ System.out.println("This is my test program");
 		String state = "Oregon";
 		
 		System.out.println("Hello, my name is " + myName);
+		System.out.println("I live in " + state);
 	
 
 	}
